@@ -1,6 +1,7 @@
 # Oii!
 
 🎨 **Graphic Designer & UI/UX Designer**
+
 💻 Apaixonada por design, tecnologia e produtos digitais.
 Sou estudante de **Design Gráfico** e atuo com **UI/UX e Product Design**, criando interfaces, protótipos, fluxos e experiências digitais.
 
