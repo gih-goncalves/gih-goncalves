@@ -1,6 +1,6 @@
 # Oii!
 
-🎨 **Graphic Designer & UI/UX Designer**
+**Graphic Designer & UI/UX Designer**
 
 💻 Apaixonada por design, tecnologia e produtos digitais.
 
