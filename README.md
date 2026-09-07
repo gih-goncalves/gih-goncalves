@@ -4,7 +4,7 @@
 
 💻 Apaixonada por design, tecnologia e produtos digitais.
 
-Sou estudante de **Design Gráfico** e atuo com **UI/UX e Product Design**, criando interfaces, protótipos, fluxos e experiências digitais.
+Sou estudante de **Design Gráfico** e atuo com **UI/UX e Product Design**, criando interfaces, fluxos e experiências digitais.
 
 Tenho também formação técnica em **Desenvolvimento de Sistemas**, o que me permite transitar entre **design e tecnologia** e entender melhor como as ideias saem do Figma e ganham vida. ✨
 
